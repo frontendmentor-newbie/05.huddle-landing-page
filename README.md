@@ -14,7 +14,7 @@ This is a solution to the [Huddle landing page with a single introductory sectio
 ![](./assets/images/screenshot.png)
 - Live Site URL: [Huddle landing page with a single introductory section](https://frontendmentor-newbie.github.io/05.huddle-landing-page/)
 
-- Solution: [Frontendmentor.io](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-htmlcss-srWfL_6Sz)
+- Solution: [Frontendmentor.io](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-htmlcss-RgyWfPKKN)
 - Challenge: [Hub](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0)
 
 ### Built with
