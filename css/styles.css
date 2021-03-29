@@ -9,6 +9,7 @@ body{
     padding: 20px;
     font-family: 'Open Sans', sans-serif;
     background-image: url(../assets/images/bg-mobile.svg);
+    background-size: 100%;
     background-repeat: no-repeat;
 }
 
